@@ -4,7 +4,7 @@
 __Project of measurement temperature of the heating furnace__
 
 
-Table of contents
+##Table of contents
 * General info
 * Design assumptions
 * Technologies
