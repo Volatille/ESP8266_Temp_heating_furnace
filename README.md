@@ -1,7 +1,6 @@
+# __Project of measurement temperature of the heating furnace__
+
 ### *"Enjoy the little things because one day you will look back and realize that they were big things"* ~ Robert Brault.
-
-
-__Project of measurement temperature of the heating furnace__
 
 
 ## Table of contents
