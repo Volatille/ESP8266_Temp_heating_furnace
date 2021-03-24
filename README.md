@@ -4,7 +4,7 @@
 __Project of measurement temperature of the heating furnace__
 
 
-##Table of contents
+## Table of contents
 * General info
 * Design assumptions
 * Technologies
@@ -79,4 +79,5 @@ IDE: Arduino IDE
 ## License
 BeerWare. If you everywhere meet me, you must buy my a beer :)
 but now:
-Copyright by Bajkos Michał. All rights reserved.
+
+__Copyright by Bajkos Michał. All rights reserved__
