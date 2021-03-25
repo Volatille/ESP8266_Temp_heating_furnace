@@ -54,7 +54,7 @@ Cable (transmision medium)
 *   Category: CAT 5e
 *   Structure:  __twisted pair__ (important)
 
-Ethernet over twisted pair- must the be used, to goal ensuring data transmission over the transmission medium#
+Ethernet over twisted pair- must the be used, to goal ensuring data transmission over the transmission medium
 
 Other
 *   Resistor 4,7kOhm
