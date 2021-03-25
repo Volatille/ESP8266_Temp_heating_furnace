@@ -56,6 +56,9 @@ Cable (transmision medium)
 
 Ethernet over twisted pair- must the be used, to goal ensuring data transmission over the transmission medium#
 
+Other
+*   Resistor 4,7kOhm
+
 ## Technologies 
 Language: C
 IDE: Arduino IDE 
